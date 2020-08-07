@@ -22,7 +22,8 @@ while True:
 
     # Filter by Area.
     params.filterByArea = True
-    params.minArea = 1500
+    params.minArea = 1000
+    params.maxArea = 8000
 
     # Filter by Circularity
     params.filterByCircularity = True
